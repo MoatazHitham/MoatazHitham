@@ -21,15 +21,14 @@
 
 ### 👨‍💻 About Me
 
-- ☁️ &nbsp;I'm currently working as a **DevOps Engineer** at **[Your Company]**
+- ☁️ &nbsp;**DevOps Engineer** specialized in **DevOps & Cloud**
 - 🔧 &nbsp;Building scalable **CI/CD pipelines**, **Kubernetes** clusters, and **Infrastructure as Code**
-- 🚀 &nbsp;Passionate about **automation**, **optimizing workflows**, and **reducing toil**
+- 🚀 &nbsp;Experienced with **AWS Cloud** and cloud-native technologies
 - 💬 &nbsp;Ask me about **CI/CD**, **GitHub Actions**, **Jenkins**, **Terraform**, **Docker**, and **K8s**
-- ⚡ &nbsp;Fun fact: I automate everything... including my coffee machine ☕
 
 <br>
 
-<h2 align="left" id="moataz-tech">🛠️ DevOps Toolchain & Tech Stack</h2>
+<h2 align="left" id="moataz-tech">⭐ Favorite Tech</h2>
 
 <table align="center">
   <tr>
@@ -133,17 +132,6 @@
     </td>
   </tr>
 </table>
-
-<h2 align="left">🔗 Connect with Me</h2>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/moatazhitham/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:moatazhitham74@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
 
 ---
 
