@@ -1,5 +1,5 @@
-<img src="https://raw.githubusercontent.com/kha7iq/kha7iq/main/assets/banner.png" alt="DevOps Banner" style="text-align: center; margin-bottom: 30px;" />
-
+[<img src="https://raw.githubusercontent.com/kha7iq/kha7iq/main/assets/banner.png" alt="DevOps Banner" style="text-align: center; margin-bottom: 30px;" />
+](https://github.com/MoatazHitham/MoatazHitham/blob/main/assets/banner.png)
 <h1 align="left" id="moataz-title">🚀 Hello World! I'm Moataz Hitham</h1>
 <h3 align="left">Senior DevOps Engineer | Automation & Cloud Architect</h3>
 
