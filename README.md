@@ -1,14 +1,8 @@
 <img src="https://raw.githubusercontent.com/MoatazHitham/MoatazHitham/main/assets/banner.png" alt="DevOps Banner" />
 
-<h1 align="left" id="moataz-title">🚀 Hello World! I'm Moataz Hitham</h1>
-<h3 align="left">Senior DevOps Engineer | Automation & Cloud Architect</h3>
-
 <p align="left">
   <a href="https://github.com/MoatazHitham">
     <img src="https://komarev.com/ghpvc/?username=MoatazHitham&color=blue" alt="Profile Views" />
-  </a>
-  <a href="https://moataz.dev">
-    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fmoataz.dev&label=Portfolio&color=success">
   </a>
   <a href="https://www.linkedin.com/in/moatazhitham/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin">
@@ -16,8 +10,8 @@
   <a href="https://github.com/MoatazHitham?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/MoatazHitham?style=flat&logo=github&label=Followers">
   </a>
-  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
-    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
+  <a href="mailto:moatazhitham74@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-Contact-red?logo=gmail">
   </a>
 </p>
 
@@ -29,9 +23,8 @@
 
 - ☁️ &nbsp;I'm currently working as a **DevOps Engineer** at **[Your Company]**
 - 🔧 &nbsp;Building scalable **CI/CD pipelines**, **Kubernetes** clusters, and **Infrastructure as Code**
-- 🌱 &nbsp;Currently deep diving into **ArgoCD**, **Crossplane**, and **eBPF**
-- 💬 &nbsp;Ask me about **AWS**, **Terraform**, **Docker**, **K8s**, and **automation**
-- 📝 &nbsp;I write technical blogs on **[Medium / Dev.to]**
+- 🚀 &nbsp;Passionate about **automation**, **optimizing workflows**, and **reducing toil**
+- 💬 &nbsp;Ask me about **CI/CD**, **GitHub Actions**, **Jenkins**, **Terraform**, **Docker**, and **K8s**
 - ⚡ &nbsp;Fun fact: I automate everything... including my coffee machine ☕
 
 <br>
@@ -147,9 +140,9 @@
   <a href="https://www.linkedin.com/in/moatazhitham/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <br>
-  <br>
-  <strong>📧 Email:</strong> moatazhitham74@gmail.com
+  <a href="mailto:moatazhitham74@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
 
 ---
