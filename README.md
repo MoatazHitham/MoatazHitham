@@ -1,16 +1,166 @@
-## Hi there 👋
+<img src="https://raw.githubusercontent.com/kha7iq/kha7iq/main/assets/banner.png" alt="DevOps Banner" style="text-align: center; margin-bottom: 30px;" />
 
-<!--
-**MoatazHitham/MoatazHitham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="left" id="moataz-title">🚀 Hello World! I'm Moataz Hitham</h1>
+<h3 align="left">Senior DevOps Engineer | Automation & Cloud Architect</h3>
 
-Here are some ideas to get you started:
+<p align="left">
+  <a href="https://github.com/MoatazHitham">
+    <img src="https://komarev.com/ghpvc/?username=MoatazHitham&color=blue" alt="Profile Views" />
+  </a>
+  <a href="https://moataz.dev">
+    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fmoataz.dev&label=Portfolio&color=success">
+  </a>
+  <a href="https://www.linkedin.com/in/moatazhitham/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin">
+  </a>
+  <a href="https://github.com/MoatazHitham?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MoatazHitham?style=flat&logo=github&label=Followers">
+  </a>
+  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
+    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="#moataz-title">
+  <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="GitHub Stats" align="right" />
+</a>
+
+### 👨‍💻 About Me
+
+- ☁️ &nbsp;I'm currently working as a **DevOps Engineer** at **[Your Company]**
+- 🔧 &nbsp;Building scalable **CI/CD pipelines**, **Kubernetes** clusters, and **Infrastructure as Code**
+- 🌱 &nbsp;Currently deep diving into **ArgoCD**, **Crossplane**, and **eBPF**
+- 💬 &nbsp;Ask me about **AWS**, **Terraform**, **Docker**, **K8s**, and **automation**
+- 📝 &nbsp;I write technical blogs on **[Medium / Dev.to]**
+- ⚡ &nbsp;Fun fact: I automate everything... including my coffee machine ☕
+
+<br>
+
+<h2 align="left" id="moataz-tech">🛠️ DevOps Toolchain & Tech Stack</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="#moataz-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="48" height="48" alt="Kubernetes" />
+      </a>
+      <br>K8s
+    </td>
+    <td align="center" width="96">
+      <a href="#moataz-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <a href="#moataz-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg" width="48" height="48" alt="Terraform" />
+      </a>
+      <br>Terraform
+    </td>
+    <td align="center" width="96">
+      <a href="#moataz-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS" />
+      </a>
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <a href="#moataz-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original-wordmark.svg" width="48" height="48" alt="Ansible" />
+      </a>
+      <br>Ansible
+    </td>
+    <td align="center" width="96">
+      <a href="#moataz-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="48" height="48" alt="Jenkins" />
+      </a>
+      <br>Jenkins
+    </td>
+    <td align="center" width="96">
+      <a href="#moataz-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+      </a>
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <a href="#moataz-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#moataz-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="48" height="48" alt="GitHub Actions" />
+      </a>
+      <br>GitHub Actions
+    </td>
+    <td align="center" width="96">
+      <a href="#moataz-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original-wordmark.svg" width="48" height="48" alt="Grafana" />
+      </a>
+      <br>Grafana
+    </td>
+    <td align="center" width="96">
+      <a href="#moataz-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original-wordmark.svg" width="48" height="48" alt="Prometheus" />
+      </a>
+      <br>Prometheus
+    </td>
+    <td align="center" width="96">
+      <a href="#moataz-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original-wordmark.svg" width="48" height="48" alt="ArgoCD" />
+      </a>
+      <br>ArgoCD
+    </td>
+    <td align="center" width="96">
+      <a href="#moataz-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" width="48" height="48" alt="Helm" />
+      </a>
+      <br>Helm
+    </td>
+    <td align="center" width="96">
+      <a href="#moataz-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="48" height="48" alt="Nginx" />
+      </a>
+      <br>Nginx
+    </td>
+    <td align="center" width="96">
+      <a href="#moataz-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" width="48" height="48" alt="Go" />
+      </a>
+      <br>Go
+    </td>
+    <td align="center" width="96">
+      <a href="#moataz-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="48" height="48" alt="Bash" />
+      </a>
+      <br>Bash
+    </td>
+  </tr>
+</table>
+
+<h2 align="left">📊 GitHub Analytics</h2>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MoatazHitham&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoatazHitham&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoatazHitham&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🤝 Let's Connect
+
+- 💼 **Portfolio:** [moataz.dev](https://moataz.dev)
+- 🐦 **Twitter/X:** [@MoatazHitham](https://twitter.com/MoatazHitham)
+- 💬 **Telegram:** [@MoatazHitham](https://t.me/MoatazHitham)
+- 📧 **Email:** moataz@devops.engineer
+
+<p align="center">
+  <i>"Automate everything, break nothing, and always leave it better than you found it."</i>
+</p>
