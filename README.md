@@ -1,4 +1,4 @@
-https://github.com/MoatazHitham/MoatazHitham/blob/main/assets/banner.png
+https://raw.githubusercontent.com/MoatazHitham/MoatazHitham/main/assets/banner.png
 
 <h1 align="left" id="moataz-title">🚀 Hello World! I'm Moataz Hitham</h1>
 <h3 align="left">Senior DevOps Engineer | Automation & Cloud Architect</h3>
