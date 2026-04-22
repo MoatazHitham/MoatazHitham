@@ -141,25 +141,18 @@
   </tr>
 </table>
 
-<h2 align="left">📊 GitHub Analytics</h2>
+<h2 align="left">🔗 Connect with Me</h2>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MoatazHitham&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoatazHitham&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoatazHitham&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/moatazhitham/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <br>
+  <br>
+  <strong>📧 Email:</strong> moatazhitham74@gmail.com
 </p>
 
 ---
-
-### 🤝 Let's Connect
-
-- 💼 **Portfolio:** [moataz.dev](https://moataz.dev)
-- 🐦 **Twitter/X:** [@MoatazHitham](https://twitter.com/MoatazHitham)
-- 💬 **Telegram:** [@MoatazHitham](https://t.me/MoatazHitham)
-- 📧 **Email:** moataz@devops.engineer
 
 <p align="center">
   <i>"Automate everything, break nothing, and always leave it better than you found it."</i>
